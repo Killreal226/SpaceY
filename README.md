@@ -11,5 +11,5 @@ Django REST framework, React, PostgreSQL, leaflet, CSS
 ## Вид сайта
 
 <p align="center">
- <img width="200px" src="presentation/presentation.gif" alt="qr"/>
+ <img width="1000px" src="presentation/presentation.gif" alt="qr"/>
 </p>
