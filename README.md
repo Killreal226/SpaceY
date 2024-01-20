@@ -8,3 +8,6 @@
 
 Django REST framework, React, PostgreSQL, leaflet, CSS
 
+## Вид сайта
+
+![GIF Example](presentation/presentation.gif)
